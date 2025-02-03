@@ -1,0 +1,32 @@
+C:\Users\Landsberger\Downloads\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landsberger\Downloads\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfoInputs.cache
+C:\Users\Landsberger\Downloads\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfo.cs
+C:\Users\Landsberger\Downloads\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.csproj.CoreCompileInputs.cache
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.exe
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.deps.json
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.runtimeconfig.json
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.dll
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.pdb
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfoInputs.cache
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfo.cs
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.csproj.CoreCompileInputs.cache
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.dll
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\refint\TrentCraftingDemo.dll
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.pdb
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.genruntimeconfig.cache
+D:\SanDiskSecureAccess\spring 2025\programming 201 PROG 201\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\ref\TrentCraftingDemo.dll
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.exe
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.deps.json
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.runtimeconfig.json
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.dll
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\bin\Debug\net8.0\TrentCraftingDemo.pdb
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfoInputs.cache
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.AssemblyInfo.cs
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.dll
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\refint\TrentCraftingDemo.dll
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.pdb
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\TrentCraftingDemo.genruntimeconfig.cache
+C:\Users\Landsberger\Downloads\TrentCraftingDemo_v1.0\TrentCraftingDemo\TrentCraftingDemo\TrentCraftingDemo\obj\Debug\net8.0\ref\TrentCraftingDemo.dll
